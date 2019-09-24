@@ -13,3 +13,5 @@ django-oauth-toolkit
 django-cors-middleware
 pyjwt
 drf-yasg
+gunicorn
+django-heroku
